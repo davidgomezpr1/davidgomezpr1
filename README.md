@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm David Gomez</h1>
 <h3 align="center">A passionate Data Analyst from Spain</h3>
 
-- 🔭 I’m currently working on [Python Exploratory Analysis](https://github.com/davidgomezpr1/Python_Exploratory_Analysis)
+- 🔭 I’m currently working on [Python Exploratory Analysis](https://github.com/davidgomezpr1/Python_Exploratory_Analysis).
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/davidgomezpr1](https://github.com/davidgomezpr1)
+- 👨‍💻 All of my projects are available at [https://github.com/davidgomezpr1](https://github.com/davidgomezpr1).
 
-- 💬 Ask me about **Health and Fitness**
+- 💬 Ask me about **Health and Fitness**.
 
-- 📫 How to reach me **davidgomezpr1@gmail.com**
+- 📫 How to reach me **davidgomezpr1@gmail.com**.
 
-- ⚡ Fun fact **I love Data**
+- ⚡ Fun fact **I love to eat**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
