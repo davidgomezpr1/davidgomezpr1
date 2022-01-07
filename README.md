@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidgomezpr1](https://github.com/davidgomezpr1).
 
-- 💬 Ask me about **Health and Fitness**.
+- 💬 Ask me about **Health and Fitness 🏋️‍♂️**.
 
 - 📫 How to reach me **davidgomezpr1@gmail.com**.
 
