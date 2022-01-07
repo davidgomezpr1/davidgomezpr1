@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Gomez</h1>
-<h3 align="center">A passionate Data Analyst from Spain</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 - 🔭 I’m currently working on [Python Exploratory Analysis](https://github.com/davidgomezpr1/Python_Exploratory_Analysis).
 
