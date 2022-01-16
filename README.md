@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **davidgomezpr1@gmail.com**.
 
-- ⚡ Fun fact **I love to eat 🍔 and listen to educational podcasts 👂**.
+- ⚡ **I love to eat 🍔 and listen to educational podcasts 👂**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
