@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/davidgomezpr1](https://github.com/davidgomezpr1).
 
+- Check out my Portfolio Website at [https://davidgomezpr1.github.io/].
+
 - 💬 Ask me about **Health and Fitness 🏋️‍♂️**.
 
 - 📫 How to reach me **davidgomezpr1@gmail.com**.
