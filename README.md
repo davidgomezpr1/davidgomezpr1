@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Gomez</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-- 🔭 I’m currently working on [Python Web Scraping](https://github.com/davidgomezpr1/Python_Web_Scraping).
+- 🔭 I’m currently working on [Indeed UK Job Scraper](https://github.com/davidgomezpr1/Indeed_Job_Scraper).
 
 - 🌱 I’m currently learning **Python**.
 
